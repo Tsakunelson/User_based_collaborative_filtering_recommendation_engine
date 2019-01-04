@@ -12,4 +12,4 @@ We provide a Recommendation engine based on collaborative filtering by adopting 
 
 We implement the three-step process above to make recommendations for every user in the movie tweetings dataset. We go through the process of implementing for individual pairs of users, which could as well be extended via looping to all users.
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwizgJOSz8_fAhXQm-AKHZF7AzUQjRx6BAgBEAU&url=https%3A%2F%2Fmedium.com%2F%40tomar.ankur287%2Fuser-user-collaborative-filtering-recommender-system-51f568489727&psig=AOvVaw3MzV9izAWqRM0u6_1dJMNj&ust=1546536354050742)
+![alt text](https://github.com/Tsakunelson/User_based_collaborative_filtering_recommendation_engine/blob/master/user_based_collab_recs.png)
