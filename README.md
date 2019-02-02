@@ -14,4 +14,4 @@ We implement the three-step process above to make recommendations for every user
 The suitable evaluation metric for this project would be through online AB Testing
 
 
-![alt text](https://github.com/Tsakunelson/User_based_collaborative_filtering_recommendation_engine/blob/master/user_based_collab_recs.png)
+![alt text](./user_based_collab_recs.png)
